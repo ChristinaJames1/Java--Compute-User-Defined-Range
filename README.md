@@ -1,4 +1,4 @@
-<h1>Java - Computing Input-Defined Range</h1>
+<h1>Java - Computing Input, Defined Range</h1>
 
 <h2>Description</h2>
 This Java program uses loops, input handling, and basic arithmetic to add and square a defined set of numbers. It allows the user to enter a numeric range (a starting and ending number), then it iterates through each number in that range and squares each number. The program then sums the squares of all numbers in the range, and displays the final total to the user.
